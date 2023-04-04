@@ -1,2 +1,2 @@
-# Getting Started with Create React App
-
+# Image List using ReactJS
+Mini project which find images from Pixbay.com for the keywords entered in the site's search bar!
